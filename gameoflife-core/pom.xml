@@ -61,17 +61,9 @@
                 <configuration>
                     <formats>
                         <format>html</format>
-                       <format>xml</format>
+                        <format>xml</format>
                     </formats>
                 </configuration>
-                <executions>
-                    <execution>
-                        <phase>test</phase>
-                        <goals>
-                            <goal>cobertura</goal>
-                        </goals>
-                    </execution>
-                </executions>
             </plugin>
         </plugins>
     </reporting>
