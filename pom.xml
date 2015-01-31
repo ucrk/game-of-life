@@ -505,7 +505,7 @@
                             <execution>
                                 <phase>test</phase>
                                 <goals>
-                                    <goal>cobertura</goal>
+                                    <goal>cobertura:cobertura</goal>
                                 </goals>
                             </execution>
                         </executions>
