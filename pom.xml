@@ -501,14 +501,6 @@
                                 <format>html</format>
                             </formats>
                         </configuration>
-                        <executions>
-                            <execution>
-                                <phase>test</phase>
-                                <goals>
-                                    <goal>cobertura:cobertura</goal>
-                                </goals>
-                            </execution>
-                        </executions>
                     </plugin>
                 </plugins>
             </reporting>
